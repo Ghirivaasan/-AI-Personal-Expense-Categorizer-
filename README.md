@@ -217,7 +217,7 @@ Output: food_dining (73% confidence) ✅
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/ShreeNithesh)
+- GitHub: [@Ghirivaasan](https://github.com/Ghirivaasan)
 
 ## 🙏 Acknowledgments
 
@@ -227,7 +227,7 @@ Output: food_dining (73% confidence) ✅
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue or contact [your.email@example.com](mailto:shreenithesh4@gmail.com)
+For questions or feedback, please open an issue or contact [ghirivaasan@gmail.com](mailto:ghirivaasan@gmail.com)
 
 ## 🚀 Future Enhancements
 
